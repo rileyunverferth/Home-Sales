@@ -1,4 +1,4 @@
-# Home Sales Queries
+# Home Sales
 ## Module 22 Challenge (SparkSQL)
 
 ### Synopsis
